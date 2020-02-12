@@ -1,0 +1,6 @@
+Este documento lo volvi a crear,
+porque al parecer elimine el primero o no se donde lo puse
+pero para no estar alli buscando,
+mejor cree otro.
+
+Asi que este es una prueba para el uso de git

@@ -2,5 +2,6 @@ Esta es un archivo de Elvia Vargas
 
 Elvia Vargas tiene 29 años y nacio en Guatemala 
 
-Hoy se hablara de la practica del git 
+Hoy se hablara de la practica del git
 
+Estoy aprendiendo poco a poco esta interesante.
